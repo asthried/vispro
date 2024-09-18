@@ -1,0 +1,28 @@
+C:\Users\User\source\repos\Database Assignment\Database Assignment\bin\Debug\Database Assignment.exe.config
+C:\Users\User\source\repos\Database Assignment\Database Assignment\bin\Debug\Database Assignment.exe
+C:\Users\User\source\repos\Database Assignment\Database Assignment\bin\Debug\Database Assignment.pdb
+C:\Users\User\source\repos\Database Assignment\Database Assignment\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\Database Assignment\Database Assignment\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\User\source\repos\Database Assignment\Database Assignment\bin\Debug\MySql.Web.dll
+C:\Users\User\source\repos\Database Assignment\Database Assignment\bin\Debug\Google.Protobuf.dll
+C:\Users\User\source\repos\Database Assignment\Database Assignment\bin\Debug\ZstdNet.dll
+C:\Users\User\source\repos\Database Assignment\Database Assignment\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\source\repos\Database Assignment\Database Assignment\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\source\repos\Database Assignment\Database Assignment\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\source\repos\Database Assignment\Database Assignment\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\Database Assignment\Database Assignment\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\source\repos\Database Assignment\Database Assignment\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\source\repos\Database Assignment\Database Assignment\bin\Debug\MySql.Data.xml
+C:\Users\User\source\repos\Database Assignment\Database Assignment\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\User\source\repos\Database Assignment\Database Assignment\bin\Debug\MySql.Web.xml
+C:\Users\User\source\repos\Database Assignment\Database Assignment\obj\Debug\Database Assignment.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Database Assignment\Database Assignment\obj\Debug\Database Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Database Assignment\Database Assignment\obj\Debug\Database Assignment.exe.config
+C:\Users\User\source\repos\Database Assignment\Database Assignment\obj\Debug\Database_Assignment.login_form.resources
+C:\Users\User\source\repos\Database Assignment\Database Assignment\obj\Debug\Database_Assignment.FrmMain.resources
+C:\Users\User\source\repos\Database Assignment\Database Assignment\obj\Debug\Database_Assignment.Properties.Resources.resources
+C:\Users\User\source\repos\Database Assignment\Database Assignment\obj\Debug\Database Assignment.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Database Assignment\Database Assignment\obj\Debug\Database Assignment.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Database Assignment\Database Assignment\obj\Debug\Database.03F7F50A.Up2Date
+C:\Users\User\source\repos\Database Assignment\Database Assignment\obj\Debug\Database Assignment.exe
+C:\Users\User\source\repos\Database Assignment\Database Assignment\obj\Debug\Database Assignment.pdb
